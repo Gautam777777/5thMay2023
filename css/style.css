@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "gautamFont";
+    src: url("../fonts/AlexBrush-Regular.ttf") format("truetype") ;
+}
+
+@font-face {
+    font-family: "gautam2Font";
+    src: url("../fonts/Chunk\ Five\ Print.otf") format("opentype") ;
+}
+
+.border{
+    border-bottom: 2px solid #000;
+}
+
+.heading1{
+    font-family: "gautamFont",Arial, Helvetica, sans-serif;
+}
+
+.heading2{
+    font-family: "gautam2Font",Arial, Helvetica, sans-serif;
+}
